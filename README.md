@@ -5,12 +5,12 @@
 
 ## 🛠 Technical Skills  
 - **Programming**: C, C++, Python, HTML/CSS, Django  
-- **Cybersecurity Tools**: Nessus, Burp Suite, OWASP ZAP, airmon-ng, aircrack-ng  
-- **Networking & Security**: nmap, Spiderfoot, Cryptography (RSA implementation in Python)  
+- **Cybersecurity Tools**: Nessus, Burp Suite, OWASP ZAP, airmon-ng, aircrack-ng etc...
+- **Networking & Security**: nmap, Spiderfoot, Cryptography (RSA implementation in Python) etc...
 
 ## 📜 Certifications  
 ✔️ **Introduction to Cybersecurity**, **Networking Basics**, **Ethical Hacker (Cisco)**  
-✔️ Other certifications in **Cloud Security, Pentesting, and SQL Injection Attacks**  
+✔️ Other certifications in **Cloud Security, Pentesting, and SQL Injection Attacks**  etc...
 
 ## 💼 Experience  
 - 🖥 **Full-Stack Developer**: Built a school management system with Django  
