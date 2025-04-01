@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Omer Dedo!  
+# 👋 Hello, I'm Omer DEDO!  
 
 🎓 **Computer Science student at Epitech, Benin**  
 🔐 Passionate about **Cybersecurity, System Security & Penetration Testing**  
