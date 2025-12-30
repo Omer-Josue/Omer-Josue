@@ -1,4 +1,4 @@
-# Hi, I'm Omer Dedo 👋
+# Hi, I'm Omer DEDO 👋
 
 I'm a graduate in **Information Technology Expertise** from **Epitech Benin**, with a strong focus on **cybersecurity** and a growing interest in **artificial intelligence**, especially where it meets security, automation, and real-world problem solving.
 
